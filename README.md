@@ -1,10 +1,13 @@
 ![Andrea Sorrentino Banner](banner_github.jpg)
 
-💻 I'm currently working as Data Engineer for TIM.
+🧪 Currently working as Data Engineer at Healx
 
-🚗 I was an intern in the Data Logging Analytics team for the [Athena Project](https://www.daimler.com/innovation/case/autonomous/bosch-cooperation.html) (Autonomous Driving Car) led by Robert Bosch LLC & Mercedes Benz R&D North America, Sunnyvale, CA.
+📡 Previously Data Engineer in the Data Office at TIM (italian telco company).
 
-👨‍🎓 Former M.Sc. Computer Science student at [University of Naples Federico II](http://www.unina.it/en_GB/home) with a thesis in Machine Learning Interpretability, by the title: [“Explaining machine learning systems responses: a black-box approach to classification problems”](Tesi-Andrea-Sorrentino-.pdf).
+🚗 In November 2019 I completed an internship as software engineer in the Autonomous Driving project led by Robert Bosch and Mercedes Benz, in Sunnyvale (CA). I was part of the Data Logging and Analytics team.
+
+👨‍🎓 I hold a MSc degree in Perceptive and Cognitive Systems (Computer Science) from [University of Naples Federico II](http://www.unina.it/en_GB/home), with a thesis in Machine Learning Interpretability.
+The thesis, by the title: [“Explaining machine learning systems responses: a black-box approach to classification problems”](Tesi-Andrea-Sorrentino-.pdf), was awarded "Best Thesis in Computer Ethics" within the District Rotary International 2100 (ETIC 2018-19).
 
 📫 You can get in touch with me on [linkedin](https://www.linkedin.com/in/andrea-sorrentino-85663466/).
 
